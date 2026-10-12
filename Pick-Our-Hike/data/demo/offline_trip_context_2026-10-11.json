@@ -1,0 +1,260 @@
+{
+  "schema_version": 2,
+  "data_kind": "synthetic",
+  "forecast_for_date": "2026-10-11",
+  "timezone": "America/Los_Angeles",
+  "purpose": "Invented weather and travel scenarios, not forecasts or measured routes.",
+  "meetup": "Redlands City Hall (demo starting label only)",
+  "destinations": {
+    "cedar-meadow": {
+      "arrival": "Cedar Meadow Loop fictional entrance",
+      "weather": {
+        "nearby_area": "Fictional demo area",
+        "summary": "Clear demo skies",
+        "high_f": 60,
+        "rain_chance_percent": 0,
+        "forecast_for_date": "2026-10-11",
+        "source_name": "Invented demo scenario"
+      },
+      "drive": {
+        "outbound_miles": 12,
+        "outbound_minutes": 20,
+        "return_minutes": 25,
+        "traffic_scenario": "Invented travel allowance",
+        "basis": "authored_demo_estimate_not_live_traffic"
+      },
+      "park_facts": {
+        "details": [
+          "Fictional location for testing group planning."
+        ],
+        "dog_rule": "Demo rule: dogs must be leashed.",
+        "access_status": "synthetic"
+      }
+    },
+    "amber-ridge": {
+      "arrival": "Amber Ridge Loop fictional entrance",
+      "weather": {
+        "nearby_area": "Fictional demo area",
+        "summary": "Cloudy demo skies",
+        "high_f": 62,
+        "rain_chance_percent": 20,
+        "forecast_for_date": "2026-10-11",
+        "source_name": "Invented demo scenario"
+      },
+      "drive": {
+        "outbound_miles": 22,
+        "outbound_minutes": 35,
+        "return_minutes": 40,
+        "traffic_scenario": "Invented travel allowance",
+        "basis": "authored_demo_estimate_not_live_traffic"
+      },
+      "park_facts": {
+        "details": [
+          "Fictional location for testing group planning."
+        ],
+        "dog_rule": "Demo rule: dogs must be leashed.",
+        "access_status": "synthetic"
+      }
+    },
+    "willow-bank": {
+      "arrival": "Willow Bank Walk fictional entrance",
+      "weather": {
+        "nearby_area": "Fictional demo area",
+        "summary": "Light demo rain",
+        "high_f": 64,
+        "rain_chance_percent": 60,
+        "forecast_for_date": "2026-10-11",
+        "source_name": "Invented demo scenario"
+      },
+      "drive": {
+        "outbound_miles": 18,
+        "outbound_minutes": 30,
+        "return_minutes": 35,
+        "traffic_scenario": "Invented travel allowance",
+        "basis": "authored_demo_estimate_not_live_traffic"
+      },
+      "park_facts": {
+        "details": [
+          "Fictional location for testing group planning."
+        ],
+        "dog_rule": "Demo rule: dogs must be leashed.",
+        "access_status": "synthetic"
+      }
+    },
+    "granite-crown": {
+      "arrival": "Granite Crown Climb fictional entrance",
+      "weather": {
+        "nearby_area": "Fictional demo area",
+        "summary": "Clear demo skies",
+        "high_f": 66,
+        "rain_chance_percent": 0,
+        "forecast_for_date": "2026-10-11",
+        "source_name": "Invented demo scenario"
+      },
+      "drive": {
+        "outbound_miles": 70,
+        "outbound_minutes": 110,
+        "return_minutes": 120,
+        "traffic_scenario": "Invented travel allowance",
+        "basis": "authored_demo_estimate_not_live_traffic"
+      },
+      "park_facts": {
+        "details": [
+          "Fictional location for testing group planning."
+        ],
+        "dog_rule": "Demo rule: dogs must be leashed.",
+        "access_status": "synthetic"
+      }
+    },
+    "sunstone-hill": {
+      "arrival": "Sunstone Hill Trail fictional entrance",
+      "weather": {
+        "nearby_area": "Fictional demo area",
+        "summary": "Cloudy demo skies",
+        "high_f": 68,
+        "rain_chance_percent": 20,
+        "forecast_for_date": "2026-10-11",
+        "source_name": "Invented demo scenario"
+      },
+      "drive": {
+        "outbound_miles": 60,
+        "outbound_minutes": 95,
+        "return_minutes": 105,
+        "traffic_scenario": "Invented travel allowance",
+        "basis": "authored_demo_estimate_not_live_traffic"
+      },
+      "park_facts": {
+        "details": [
+          "Fictional location for testing group planning."
+        ],
+        "dog_rule": "Demo rule: dogs must be leashed.",
+        "access_status": "synthetic"
+      }
+    },
+    "cloudstep-peak": {
+      "arrival": "Cloudstep Peak Trail fictional entrance",
+      "weather": {
+        "nearby_area": "Fictional demo area",
+        "summary": "Light demo rain",
+        "high_f": 70,
+        "rain_chance_percent": 60,
+        "forecast_for_date": "2026-10-11",
+        "source_name": "Invented demo scenario"
+      },
+      "drive": {
+        "outbound_miles": 65,
+        "outbound_minutes": 100,
+        "return_minutes": 110,
+        "traffic_scenario": "Invented travel allowance",
+        "basis": "authored_demo_estimate_not_live_traffic"
+      },
+      "park_facts": {
+        "details": [
+          "Fictional location for testing group planning."
+        ],
+        "dog_rule": "Demo rule: pet dogs are not permitted.",
+        "access_status": "synthetic"
+      }
+    },
+    "fern-hollow": {
+      "arrival": "Fern Hollow Loop fictional entrance",
+      "weather": {
+        "nearby_area": "Fictional demo area",
+        "summary": "Clear demo skies",
+        "high_f": 72,
+        "rain_chance_percent": 0,
+        "forecast_for_date": "2026-10-11",
+        "source_name": "Invented demo scenario"
+      },
+      "drive": {
+        "outbound_miles": 35,
+        "outbound_minutes": 55,
+        "return_minutes": 65,
+        "traffic_scenario": "Invented travel allowance",
+        "basis": "authored_demo_estimate_not_live_traffic"
+      },
+      "park_facts": {
+        "details": [
+          "Fictional location for testing group planning."
+        ],
+        "dog_rule": "Demo rule: pet dogs are not permitted.",
+        "access_status": "synthetic"
+      }
+    },
+    "bluebird-canyon": {
+      "arrival": "Bluebird Canyon Loop fictional entrance",
+      "weather": {
+        "nearby_area": "Fictional demo area",
+        "summary": "Cloudy demo skies",
+        "high_f": 74,
+        "rain_chance_percent": 20,
+        "forecast_for_date": "2026-10-11",
+        "source_name": "Invented demo scenario"
+      },
+      "drive": {
+        "outbound_miles": 50,
+        "outbound_minutes": 80,
+        "return_minutes": 90,
+        "traffic_scenario": "Invented travel allowance",
+        "basis": "authored_demo_estimate_not_live_traffic"
+      },
+      "park_facts": {
+        "details": [
+          "Fictional location for testing group planning."
+        ],
+        "dog_rule": "Demo rule: pet dogs are not permitted.",
+        "access_status": "synthetic"
+      }
+    },
+    "pine-arch": {
+      "arrival": "Pine Arch Trail fictional entrance",
+      "weather": {
+        "nearby_area": "Fictional demo area",
+        "summary": "Light demo rain",
+        "high_f": 76,
+        "rain_chance_percent": 60,
+        "forecast_for_date": "2026-10-11",
+        "source_name": "Invented demo scenario"
+      },
+      "drive": {
+        "outbound_miles": 40,
+        "outbound_minutes": 60,
+        "return_minutes": 70,
+        "traffic_scenario": "Invented travel allowance",
+        "basis": "authored_demo_estimate_not_live_traffic"
+      },
+      "park_facts": {
+        "details": [
+          "Fictional location for testing group planning."
+        ],
+        "dog_rule": "Demo rule: dogs must be leashed.",
+        "access_status": "synthetic"
+      }
+    },
+    "silver-crest": {
+      "arrival": "Silver Crest Trail fictional entrance",
+      "weather": {
+        "nearby_area": "Fictional demo area",
+        "summary": "Clear demo skies",
+        "high_f": 78,
+        "rain_chance_percent": 0,
+        "forecast_for_date": "2026-10-11",
+        "source_name": "Invented demo scenario"
+      },
+      "drive": {
+        "outbound_miles": 45,
+        "outbound_minutes": 75,
+        "return_minutes": 85,
+        "traffic_scenario": "Invented travel allowance",
+        "basis": "authored_demo_estimate_not_live_traffic"
+      },
+      "park_facts": {
+        "details": [
+          "Fictional location for testing group planning."
+        ],
+        "dog_rule": "Demo rule: dogs must be leashed.",
+        "access_status": "synthetic"
+      }
+    }
+  }
+}

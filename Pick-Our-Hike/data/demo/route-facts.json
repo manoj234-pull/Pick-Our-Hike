@@ -1,0 +1,457 @@
+{
+  "schema_version": 2,
+  "data_kind": "synthetic",
+  "scope": "Entirely fictional demonstration routes, rules and conditions. Not real destinations or travel guidance.",
+  "destinations": {
+    "cedar-meadow": {
+      "data_kind": "synthetic",
+      "primary_route": {
+        "name": "Cedar Meadow Loop",
+        "type": "loop",
+        "start": "Cedar Meadow Loop fictional entrance",
+        "distance_miles": 2.0,
+        "ascent_feet": 180,
+        "distance_basis": "total_loop"
+      },
+      "alternatives": [],
+      "dog_access": "allowed_leashed",
+      "dog_rule": "Demo rule: dogs must be leashed.",
+      "posted_hours": {
+        "kind": "seasonal_fixed",
+        "label": "Demo hours: 6 AM to 8 PM daily",
+        "winter_months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "winter_open": "06:00",
+        "winter_close": "20:00",
+        "summer_open": "06:00",
+        "summer_close": "20:00"
+      },
+      "dog_details": {
+        "summary": "Demo rule: dogs must be leashed.",
+        "scope": "Fictional demo rule only.",
+        "leash_max_feet": null,
+        "max_dogs_per_person": null,
+        "limits_note": "Dog endurance comes from the organizer, not this invented rule."
+      },
+      "visitor_notes": [],
+      "alerts": {
+        "status": "synthetic",
+        "summary": "No real alerts are represented.",
+        "notices": []
+      },
+      "directions_destination": "Cedar Meadow Loop fictional entrance",
+      "weather_location": "Fictional demo area"
+    },
+    "amber-ridge": {
+      "data_kind": "synthetic",
+      "primary_route": {
+        "name": "Amber Ridge Loop",
+        "type": "loop",
+        "start": "Amber Ridge Loop fictional entrance",
+        "distance_miles": 3.0,
+        "ascent_feet": 420,
+        "distance_basis": "total_loop"
+      },
+      "alternatives": [],
+      "dog_access": "allowed_leashed",
+      "dog_rule": "Demo rule: dogs must be leashed.",
+      "posted_hours": {
+        "kind": "seasonal_fixed",
+        "label": "Demo hours: 6 AM to 8 PM daily",
+        "winter_months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "winter_open": "06:00",
+        "winter_close": "20:00",
+        "summer_open": "06:00",
+        "summer_close": "20:00"
+      },
+      "dog_details": {
+        "summary": "Demo rule: dogs must be leashed.",
+        "scope": "Fictional demo rule only.",
+        "leash_max_feet": null,
+        "max_dogs_per_person": null,
+        "limits_note": "Dog endurance comes from the organizer, not this invented rule."
+      },
+      "visitor_notes": [],
+      "alerts": {
+        "status": "synthetic",
+        "summary": "No real alerts are represented.",
+        "notices": []
+      },
+      "directions_destination": "Amber Ridge Loop fictional entrance",
+      "weather_location": "Fictional demo area"
+    },
+    "willow-bank": {
+      "data_kind": "synthetic",
+      "primary_route": {
+        "name": "Willow Bank Walk",
+        "type": "loop",
+        "start": "Willow Bank Walk fictional entrance",
+        "distance_miles": 4.0,
+        "ascent_feet": 120,
+        "distance_basis": "total_loop"
+      },
+      "alternatives": [],
+      "dog_access": "allowed_leashed",
+      "dog_rule": "Demo rule: dogs must be leashed.",
+      "posted_hours": {
+        "kind": "seasonal_fixed",
+        "label": "Demo hours: 6 AM to 8 PM daily",
+        "winter_months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "winter_open": "06:00",
+        "winter_close": "20:00",
+        "summer_open": "06:00",
+        "summer_close": "20:00"
+      },
+      "dog_details": {
+        "summary": "Demo rule: dogs must be leashed.",
+        "scope": "Fictional demo rule only.",
+        "leash_max_feet": null,
+        "max_dogs_per_person": null,
+        "limits_note": "Dog endurance comes from the organizer, not this invented rule."
+      },
+      "visitor_notes": [],
+      "alerts": {
+        "status": "synthetic",
+        "summary": "No real alerts are represented.",
+        "notices": []
+      },
+      "directions_destination": "Willow Bank Walk fictional entrance",
+      "weather_location": "Fictional demo area"
+    },
+    "granite-crown": {
+      "data_kind": "synthetic",
+      "primary_route": {
+        "name": "Granite Crown Climb",
+        "type": "loop",
+        "start": "Granite Crown Climb fictional entrance",
+        "distance_miles": 12.0,
+        "ascent_feet": 3600,
+        "distance_basis": "total_loop"
+      },
+      "alternatives": [],
+      "dog_access": "allowed_leashed",
+      "dog_rule": "Demo rule: dogs must be leashed.",
+      "posted_hours": {
+        "kind": "seasonal_fixed",
+        "label": "Demo hours: 6 AM to 8 PM daily",
+        "winter_months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "winter_open": "06:00",
+        "winter_close": "20:00",
+        "summer_open": "06:00",
+        "summer_close": "20:00"
+      },
+      "dog_details": {
+        "summary": "Demo rule: dogs must be leashed.",
+        "scope": "Fictional demo rule only.",
+        "leash_max_feet": null,
+        "max_dogs_per_person": null,
+        "limits_note": "Dog endurance comes from the organizer, not this invented rule."
+      },
+      "visitor_notes": [],
+      "alerts": {
+        "status": "synthetic",
+        "summary": "No real alerts are represented.",
+        "notices": []
+      },
+      "directions_destination": "Granite Crown Climb fictional entrance",
+      "weather_location": "Fictional demo area"
+    },
+    "sunstone-hill": {
+      "data_kind": "synthetic",
+      "primary_route": {
+        "name": "Sunstone Hill Trail",
+        "type": "loop",
+        "start": "Sunstone Hill Trail fictional entrance",
+        "distance_miles": 5.0,
+        "ascent_feet": 1500,
+        "distance_basis": "total_loop"
+      },
+      "alternatives": [],
+      "dog_access": "allowed_leashed",
+      "dog_rule": "Demo rule: dogs must be leashed.",
+      "posted_hours": {
+        "kind": "seasonal_fixed",
+        "label": "Demo hours: 6 AM to 8 PM daily",
+        "winter_months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "winter_open": "06:00",
+        "winter_close": "20:00",
+        "summer_open": "06:00",
+        "summer_close": "20:00"
+      },
+      "dog_details": {
+        "summary": "Demo rule: dogs must be leashed.",
+        "scope": "Fictional demo rule only.",
+        "leash_max_feet": null,
+        "max_dogs_per_person": null,
+        "limits_note": "Dog endurance comes from the organizer, not this invented rule."
+      },
+      "visitor_notes": [],
+      "alerts": {
+        "status": "synthetic",
+        "summary": "No real alerts are represented.",
+        "notices": []
+      },
+      "directions_destination": "Sunstone Hill Trail fictional entrance",
+      "weather_location": "Fictional demo area"
+    },
+    "cloudstep-peak": {
+      "data_kind": "synthetic",
+      "primary_route": {
+        "name": "Cloudstep Peak Trail",
+        "type": "loop",
+        "start": "Cloudstep Peak Trail fictional entrance",
+        "distance_miles": 16.0,
+        "ascent_feet": 4800,
+        "distance_basis": "total_loop"
+      },
+      "alternatives": [],
+      "dog_access": "prohibited",
+      "dog_rule": "Demo rule: pet dogs are not permitted.",
+      "posted_hours": {
+        "kind": "seasonal_fixed",
+        "label": "Demo hours: 6 AM to 8 PM daily",
+        "winter_months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "winter_open": "06:00",
+        "winter_close": "20:00",
+        "summer_open": "06:00",
+        "summer_close": "20:00"
+      },
+      "dog_details": {
+        "summary": "Demo rule: pet dogs are not permitted.",
+        "scope": "Fictional demo rule only.",
+        "leash_max_feet": null,
+        "max_dogs_per_person": null,
+        "limits_note": "Dog endurance comes from the organizer, not this invented rule."
+      },
+      "visitor_notes": [],
+      "alerts": {
+        "status": "synthetic",
+        "summary": "No real alerts are represented.",
+        "notices": []
+      },
+      "directions_destination": "Cloudstep Peak Trail fictional entrance",
+      "weather_location": "Fictional demo area"
+    },
+    "fern-hollow": {
+      "data_kind": "synthetic",
+      "primary_route": {
+        "name": "Fern Hollow Loop",
+        "type": "loop",
+        "start": "Fern Hollow Loop fictional entrance",
+        "distance_miles": 2.5,
+        "ascent_feet": 300,
+        "distance_basis": "total_loop"
+      },
+      "alternatives": [],
+      "dog_access": "prohibited",
+      "dog_rule": "Demo rule: pet dogs are not permitted.",
+      "posted_hours": {
+        "kind": "seasonal_fixed",
+        "label": "Demo hours: 6 AM to 8 PM daily",
+        "winter_months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "winter_open": "06:00",
+        "winter_close": "20:00",
+        "summer_open": "06:00",
+        "summer_close": "20:00"
+      },
+      "dog_details": {
+        "summary": "Demo rule: pet dogs are not permitted.",
+        "scope": "Fictional demo rule only.",
+        "leash_max_feet": null,
+        "max_dogs_per_person": null,
+        "limits_note": "Dog endurance comes from the organizer, not this invented rule."
+      },
+      "visitor_notes": [],
+      "alerts": {
+        "status": "synthetic",
+        "summary": "No real alerts are represented.",
+        "notices": []
+      },
+      "directions_destination": "Fern Hollow Loop fictional entrance",
+      "weather_location": "Fictional demo area"
+    },
+    "bluebird-canyon": {
+      "data_kind": "synthetic",
+      "primary_route": {
+        "name": "Bluebird Canyon Loop",
+        "type": "loop",
+        "start": "Bluebird Canyon Loop fictional entrance",
+        "distance_miles": 4.5,
+        "ascent_feet": 900,
+        "distance_basis": "total_loop"
+      },
+      "alternatives": [],
+      "dog_access": "prohibited",
+      "dog_rule": "Demo rule: pet dogs are not permitted.",
+      "posted_hours": {
+        "kind": "seasonal_fixed",
+        "label": "Demo hours: 6 AM to 8 PM daily",
+        "winter_months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "winter_open": "06:00",
+        "winter_close": "20:00",
+        "summer_open": "06:00",
+        "summer_close": "20:00"
+      },
+      "dog_details": {
+        "summary": "Demo rule: pet dogs are not permitted.",
+        "scope": "Fictional demo rule only.",
+        "leash_max_feet": null,
+        "max_dogs_per_person": null,
+        "limits_note": "Dog endurance comes from the organizer, not this invented rule."
+      },
+      "visitor_notes": [],
+      "alerts": {
+        "status": "synthetic",
+        "summary": "No real alerts are represented.",
+        "notices": []
+      },
+      "directions_destination": "Bluebird Canyon Loop fictional entrance",
+      "weather_location": "Fictional demo area"
+    },
+    "pine-arch": {
+      "data_kind": "synthetic",
+      "primary_route": {
+        "name": "Pine Arch Trail",
+        "type": "loop",
+        "start": "Pine Arch Trail fictional entrance",
+        "distance_miles": 3.5,
+        "ascent_feet": 800,
+        "distance_basis": "total_loop"
+      },
+      "alternatives": [],
+      "dog_access": "allowed_leashed",
+      "dog_rule": "Demo rule: dogs must be leashed.",
+      "posted_hours": {
+        "kind": "seasonal_fixed",
+        "label": "Demo hours: 6 AM to 8 PM daily",
+        "winter_months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "winter_open": "06:00",
+        "winter_close": "20:00",
+        "summer_open": "06:00",
+        "summer_close": "20:00"
+      },
+      "dog_details": {
+        "summary": "Demo rule: dogs must be leashed.",
+        "scope": "Fictional demo rule only.",
+        "leash_max_feet": null,
+        "max_dogs_per_person": null,
+        "limits_note": "Dog endurance comes from the organizer, not this invented rule."
+      },
+      "visitor_notes": [],
+      "alerts": {
+        "status": "synthetic",
+        "summary": "No real alerts are represented.",
+        "notices": []
+      },
+      "directions_destination": "Pine Arch Trail fictional entrance",
+      "weather_location": "Fictional demo area"
+    },
+    "silver-crest": {
+      "data_kind": "synthetic",
+      "primary_route": {
+        "name": "Silver Crest Trail",
+        "type": "loop",
+        "start": "Silver Crest Trail fictional entrance",
+        "distance_miles": 6.0,
+        "ascent_feet": 1200,
+        "distance_basis": "total_loop"
+      },
+      "alternatives": [],
+      "dog_access": "allowed_leashed",
+      "dog_rule": "Demo rule: dogs must be leashed.",
+      "posted_hours": {
+        "kind": "seasonal_fixed",
+        "label": "Demo hours: 6 AM to 8 PM daily",
+        "winter_months": [
+          10,
+          11,
+          12,
+          1,
+          2,
+          3
+        ],
+        "winter_open": "06:00",
+        "winter_close": "20:00",
+        "summer_open": "06:00",
+        "summer_close": "20:00"
+      },
+      "dog_details": {
+        "summary": "Demo rule: dogs must be leashed.",
+        "scope": "Fictional demo rule only.",
+        "leash_max_feet": null,
+        "max_dogs_per_person": null,
+        "limits_note": "Dog endurance comes from the organizer, not this invented rule."
+      },
+      "visitor_notes": [],
+      "alerts": {
+        "status": "synthetic",
+        "summary": "No real alerts are represented.",
+        "notices": []
+      },
+      "directions_destination": "Silver Crest Trail fictional entrance",
+      "weather_location": "Fictional demo area"
+    }
+  }
+}

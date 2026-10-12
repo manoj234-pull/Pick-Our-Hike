@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">A bright day on the trail</title>
+  <desc id="desc">Original illustration of two hikers and a dog following a winding trail through trees beneath mountains, sunshine and clouds. Not a map or a depiction of a specific destination.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b8e3ef"/><stop offset="1" stop-color="#eef6df"/></linearGradient>
+    <linearGradient id="hill" x2="0" y2="1"><stop stop-color="#71a777"/><stop offset="1" stop-color="#326c54"/></linearGradient>
+    <g id="tree"><path d="M0 0V94" stroke="#365649" stroke-width="7"/><path d="M0-85L-32-26H-21L-44 21H-29L-52 60H52L29 21H44L21-26H32Z" fill="#215d4b"/><path d="M0-85V60H52L29 21H44L21-26H32Z" fill="#32765a"/></g>
+    <g id="cloud" fill="#fff" opacity=".88"><ellipse rx="56" ry="16"/><circle cx="-22" cy="-12" r="22"/><circle cx="12" cy="-19" r="29"/></g>
+  </defs>
+  <rect width="1200" height="420" fill="url(#sky)"/>
+  <circle cx="952" cy="76" r="45" fill="#ffd573"/><circle cx="952" cy="76" r="60" fill="#ffd573" opacity=".15"/>
+  <use href="#cloud" x="140" y="68"/><use href="#cloud" x="730" y="57" transform="translate(150 18) scale(.75)"/><use href="#cloud" x="1090" y="141"/>
+  <path d="M0 260L168 109L293 229L447 59L639 247L797 111L1013 270L1131 172L1200 240V420H0Z" fill="#99bec0"/>
+  <path d="M315 202L447 59L583 192L488 146L449 165L411 130Z" fill="#e4efeb"/>
+  <path d="M0 283L148 205L253 276L415 166L600 305L785 181L1000 316L1200 223V420H0Z" fill="#6a9990"/>
+  <path d="M0 319Q211 188 423 298T810 267T1200 306V420H0Z" fill="url(#hill)"/>
+  <path d="M0 361Q240 276 462 350T833 315T1200 354V420H0Z" fill="#3c7956"/>
+  <path d="M394 420Q506 359 641 346T708 316Q646 300 688 280L707 277Q675 298 735 309T679 364Q564 379 540 420Z" fill="#edce8b"/>
+  <path d="M476 420Q534 375 655 356" fill="none" stroke="#f9e3ae" stroke-width="3" stroke-dasharray="7 10" opacity=".65"/>
+  <use href="#tree" x="90" y="312"/><use href="#tree" x="196" y="340" transform="translate(75 115) scale(.68)"/>
+  <use href="#tree" x="1090" y="298"/><use href="#tree" x="1160" y="356"/>
+  <use href="#tree" x="854" y="342" transform="translate(280 138) scale(.65)"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="528" cy="374" rx="24" ry="5" fill="#315f4a" opacity=".3"/>
+    <path d="M520 335L511 371M530 335L539 369" stroke="#214f48" stroke-width="9"/>
+    <path d="M520 300L528 338" stroke="#eeaa48" stroke-width="23"/>
+    <path d="M535 308L549 333L563 323" stroke="#b77954" stroke-width="7"/>
+    <rect x="501" y="303" width="16" height="30" rx="6" fill="#294f5a"/>
+    <circle cx="520" cy="286" r="12" fill="#c98b5f"/>
+    <path d="M501 280H536M509 279L510 270H527L531 279" stroke="#315e4e" stroke-width="6"/>
+    <path d="M563 322L569 371" stroke="#ded5b0" stroke-width="3"/>
+    <ellipse cx="608" cy="356" rx="21" ry="4" fill="#315f4a" opacity=".3"/>
+    <path d="M604 325L597 353M613 325L621 350" stroke="#244e50" stroke-width="7"/>
+    <path d="M604 298L608 326" stroke="#e8795a" stroke-width="20"/>
+    <rect x="585" y="297" width="15" height="28" rx="5" fill="#cfddae"/>
+    <circle cx="602" cy="283" r="10" fill="#885a42"/>
+    <path d="M592 280Q593 267 608 273L614 281" stroke="#314c43" stroke-width="5"/>
+    <path d="M615 300L628 323" stroke="#885a42" stroke-width="6"/>
+    <path d="M628 323Q650 332 665 351" stroke="#e9e3ca" stroke-width="2" fill="none"/>
+    <path d="M652 350L674 348L685 337" stroke="#d69b57" stroke-width="13"/>
+    <path d="M652 352L649 364M673 353L678 363M649 348L639 338" stroke="#d69b57" stroke-width="5"/>
+    <ellipse cx="687" cy="336" rx="9" ry="7" fill="#d69b57"/><path d="M680 333L677 341" stroke="#815c39" stroke-width="5"/>
+    <circle cx="690" cy="333" r="1.8" fill="#24473d"/><circle cx="696" cy="337" r="2.3" fill="#24473d"/>
+  </g>
+  <g fill="#f7d676"><circle cx="286" cy="370" r="3"/><circle cx="297" cy="379" r="3"/><circle cx="952" cy="386" r="3"/><circle cx="966" cy="379" r="3"/><circle cx="330" cy="397" r="3"/></g>
+  <g fill="none" stroke="#41665a" stroke-width="2"><path d="M274 74q7-8 14 0q7-8 14 0M632 121q5-6 10 0q5-6 10 0"/></g>
+</svg>
